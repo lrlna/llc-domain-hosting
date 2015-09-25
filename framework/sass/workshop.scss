@@ -3,3 +3,39 @@
 
 /* Styles specific to this workshop
 ------------------------------------*/
+
+// slide 5
+.img-wrapper {
+  text-align: center;
+  margin: -25px 0 15px;
+}
+.laptop {
+  width: 30%
+}
+.folder {
+  margin-bottom: 60px
+}
+.servers {
+  width: 28%;
+  margin-bottom: -72px;
+}
+
+.drive-id .example {
+  padding: 5px 10px;
+  background: white;
+  margin-bottom: 30px;
+  font-size: 22px;
+  
+  strong {
+    color: red;
+  }
+}
+.live-site {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url(../img/workshop/bey-clap.gif) no-repeat; 
+  background-size: 100%;
+  
+  h1 {
+    color: white;
+    padding-top: 280px;
+  }
+}
